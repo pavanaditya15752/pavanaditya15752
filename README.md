@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/vP6KCL5)]
+[![MasterHead](https://i.ibb.co/bBM8jNh/github-header-image.png)]
 <h1 align="center">Hi 👋, I'm Pavan Aditya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
