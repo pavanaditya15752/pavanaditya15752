@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/bBM8jNh/github-header-image.png)]
 <h1 align="center">Hi 👋, I'm Pavan Aditya</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanaditya15752&label=Profile%20views&color=0e75b6&style=flat" alt="pavanaditya15752" /> </p>
