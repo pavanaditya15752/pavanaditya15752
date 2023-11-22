@@ -1,4 +1,4 @@
-![MasterHead](https://i.postimg.cc/c4VZ331b/github-header-image-1.png)
+![Header](https://i.postimg.cc/c4VZ331b/github-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Pavan Aditya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
