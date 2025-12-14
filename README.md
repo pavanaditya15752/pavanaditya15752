@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Hibernate**
+- 🌱 I’m currently learning **AI**
 
-- 🤝 I’m looking for help with **Next js**
-
-- 💬 Ask me about **MERN and spring**
+- 🤝 I’m looking for help with **Computer Vision**
 
 - 📫 How to reach me **pavanaditya15752@gmail.com**
 
